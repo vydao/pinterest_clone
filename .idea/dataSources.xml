@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1611246795">
+    <data-source source="LOCAL" name="Rails pinterest: development" uuid="5ae6e46f-cb0e-42d2-9cb5-ff964d06fdcd">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/pinterest_development</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails pinterest: production" uuid="e15c71f3-6eb0-4ab5-9d2b-65401271adfa">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/pinterest_production</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
